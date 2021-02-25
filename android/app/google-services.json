@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041826942687",
+    "project_id": "linuxapp-fdf2f",
+    "storage_bucket": "linuxapp-fdf2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041826942687:android:2e361f5eb2dd235a0ce36a",
+        "android_client_info": {
+          "package_name": "com.manishverma16.LinuxApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041826942687-cvb37v0l4b6rg45chderclg5os3rjh41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApS89LEAQVXA6XjFmhg8qQeqX029WT4ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041826942687-cvb37v0l4b6rg45chderclg5os3rjh41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
