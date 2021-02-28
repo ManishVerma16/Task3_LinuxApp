@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1041826942687",
-    "project_id": "linuxapp-fdf2f",
-    "storage_bucket": "linuxapp-fdf2f.appspot.com"
+    "project_number": "60342219211",
+    "project_id": "linuxapp-a73e7",
+    "storage_bucket": "linuxapp-a73e7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1041826942687:android:2e361f5eb2dd235a0ce36a",
+        "mobilesdk_app_id": "1:60342219211:android:61a7a51fab929479d7064e",
         "android_client_info": {
           "package_name": "com.manishverma16.LinuxApp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1041826942687-cvb37v0l4b6rg45chderclg5os3rjh41.apps.googleusercontent.com",
+          "client_id": "60342219211-f6blhtjmfbgapvkgkmgkg52mkobq6i3b.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyApS89LEAQVXA6XjFmhg8qQeqX029WT4ak"
+          "current_key": "AIzaSyDJgXH5mBzrgaIATvTNeZeOA_7CoO3is_s"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1041826942687-cvb37v0l4b6rg45chderclg5os3rjh41.apps.googleusercontent.com",
+              "client_id": "60342219211-f6blhtjmfbgapvkgkmgkg52mkobq6i3b.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
